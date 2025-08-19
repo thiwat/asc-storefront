@@ -22,7 +22,7 @@ let TRANSLATES: object = {
   payment_account: '1101402067124\nพีรพล โอภาสพันธ์วงศ์',
   common_upload_title: 'Upload your slip',
   common_upload_button_upload: 'Upload File',
-  payment_button_confirm_order: 'Get the tickets!',
+  payment_button_confirm_order: 'Submit',
   common_error_require: 'Please fill in this field',
   order_success_title: 'Order Confirmed',
   order_success_description: 'Thank you for your order. you will receive email confirmation shortly.'
