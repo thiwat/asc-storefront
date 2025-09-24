@@ -70,7 +70,7 @@ const HomePage = () => {
         className={'space-y-3'}
         onFinish={onPlaceOrder}
       >
-        <Card>
+        {/* <Card>
           <div className={'body-strong'}>
             {t('ticket_type_player')}
           </div>
@@ -132,7 +132,7 @@ const HomePage = () => {
               })}
             </div>
           }
-        </Card>
+        </Card> */}
         <Card>
           <div className={'body-strong'}>
             {t('ticket_type_watcher')}
