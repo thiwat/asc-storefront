@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
+    "@yudiel/react-qr-scanner": "^2.3.1",
+    "ahooks": "^3.9.5",
     "autoprefixer": "^10.4.20",
     "crc": "3.8.0",
     "dayjs": "^1.11.13",
